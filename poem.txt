@@ -1,5 +1,7 @@
 the rainbow
+
+green
 purple 
 pink
 blue
-these are some colours in a raimbow
+these are some colors in a rainbow
